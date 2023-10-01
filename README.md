@@ -1,2 +1,2 @@
 # Kuldeep
-My Portfolio, made under guidance of Angela yu.
+My Portfolio, made under the guidance of Angela yu.
